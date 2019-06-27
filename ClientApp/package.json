@@ -27,7 +27,7 @@
     "ts-node": "^3.2.0",
     "@types/node": "^6.0.45",
     "@types/lodash": "^4.14.69",
-    "@types/webpack": "^3.0.4",
+    "@types/webpack": "^4.4.34",
     "typescript": ">=1.9.0-dev || ^2.0.0",
     "gulp-rename": "^1.2.2",
     "html-webpack-plugin": "2.30.1",
