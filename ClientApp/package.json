@@ -10,7 +10,7 @@
   "dependencies": {
     "aurelia-bootstrapper": "^2.3.3",
     "aurelia-animator-css": "^1.0.2",
-    "bluebird": "^3.4.1",
+    "bluebird": "^3.5.5",
     "aurelia-polyfills": "latest"
   },
   "peerDependencies": {},
