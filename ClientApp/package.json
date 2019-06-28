@@ -18,7 +18,7 @@
     "aurelia-cli": "^1.0.2",
     "aurelia-testing": "^1.0.0",
     "aurelia-tools": "^1.0.0",
-    "gulp": "github:gulpjs/gulp#v4.0.2",
+    "gulp": "^4.0.2",
     "minimatch": "^3.0.2",
     "through2": "^3.0.1",
     "uglify-js": "^3.6.0",
