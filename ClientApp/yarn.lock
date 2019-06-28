@@ -4483,6 +4483,10 @@ nanomatch@^1.2.9:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
+ncp@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/ncp/-/ncp-2.0.0.tgz#195a21d6c46e361d2fb1281ba38b91e9df7bdbb3"
+
 needle@^2.2.1:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/needle/-/needle-2.4.0.tgz#6833e74975c444642590e15a750288c5f939b57c"
@@ -4667,9 +4671,9 @@ npmlog@^4.0.2:
     gauge "~2.7.3"
     set-blocking "~2.0.0"
 
-nps-utils@1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/nps-utils/-/nps-utils-1.2.0.tgz#40c8f0c59d0d363648a575d8fd8e1511e3fa0174"
+nps-utils@1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/nps-utils/-/nps-utils-1.7.0.tgz#88ef27925ee7cd916f15a25f1b1a6648e9b21a7d"
   dependencies:
     any-shell-escape "^0.1.1"
     common-tags "^1.4.0"
@@ -4678,6 +4682,7 @@ nps-utils@1.2.0:
     cross-env "^3.1.4"
     is-windows "^1.0.0"
     mkdirp "^0.5.1"
+    ncp "2.0.0"
     opn-cli "^3.1.0"
     rimraf "^2.6.1"
 
