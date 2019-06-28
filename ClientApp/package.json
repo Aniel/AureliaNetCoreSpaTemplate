@@ -20,7 +20,7 @@
     "aurelia-tools": "^1.0.0",
     "gulp": "github:gulpjs/gulp#v4.0.2",
     "minimatch": "^3.0.2",
-    "through2": "^2.0.1",
+    "through2": "^3.0.1",
     "uglify-js": "^3.6.0",
     "vinyl-fs": "^3.0.3",
     "awesome-typescript-loader": "^3.2.1",
