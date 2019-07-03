@@ -39,7 +39,7 @@
     "expose-loader": "0.7.5",
     "style-loader": "0.23.1",
     "url-loader": "1.1.2",
-    "del": "^4.1.1",
+    "del": "^5.0.0",
     "css-loader": "0.28.11",
     "nps": "^5.9.5",
     "nps-utils": "1.7.0",
