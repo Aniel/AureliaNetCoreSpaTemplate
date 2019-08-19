@@ -270,9 +270,9 @@
   dependencies:
     source-map "^0.6.1"
 
-"@types/webpack@^4.32.1":
-  version "4.32.1"
-  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-4.32.1.tgz#6e95010e806f808abd6551c112097ac09035aacf"
+"@types/webpack@^4.32.2":
+  version "4.32.2"
+  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-4.32.2.tgz#e0f1ce77b2f13fe5d9cfd3fcf4b99aee3f92ac51"
   dependencies:
     "@types/anymatch" "*"
     "@types/node" "*"
