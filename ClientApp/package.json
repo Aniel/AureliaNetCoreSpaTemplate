@@ -41,7 +41,7 @@
     "url-loader": "1.1.2",
     "del": "^5.1.0",
     "css-loader": "0.28.11",
-    "nps": "^5.9.5",
+    "nps": "^5.9.6",
     "nps-utils": "1.7.0",
     "file-loader": "2.0.0",
     "json-loader": "0.5.7",
